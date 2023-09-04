@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amandel111
 - 👀 I’m interested in game development and Chinese
-- 🌱 I’m currently learning computer science (Python), Unity, and some C#
+- 🌱 I’m majoring in Computer Science and minoring in Mathematics at Wellesley College
 - 💞️ I’m looking to collaborate on game jam projects or website designs!
 - 📫 How to reach me: anabelle.world@yahoo.com
 
